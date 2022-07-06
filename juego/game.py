@@ -13,7 +13,7 @@ class Game:
         pygame.init()
 
         self.screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGTH))
-        self.nombre = pygame.display.set_caption("Bloclk Puzzle")
+        self.nombre = pygame.display.set_caption("Block Puzzle")
         
         self.clock = pygame.time.Clock()
         
