@@ -1,4 +1,4 @@
-from juego.game import Game
+from block_puzzle.game import Game
 
 game = Game()
 
